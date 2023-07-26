@@ -1,4 +1,5 @@
 # 2D Platform Games CatDog
+Game kucing dan anjing yang tidak jelas permainannya..
 ## Made by
 •	Rendika Bagus Vernanda 		  (22.82.1498)\
 •	Imam Hanafi			        	  (22.82.1502)\
