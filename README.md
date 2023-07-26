@@ -5,7 +5,7 @@
 •	Sheva Alfanza Pratama 		  (22.82.1507)\
 •	Ramadhani Cesario Pamungkas (22.82.1514)\
 •	Adi Thoha Abdillah Bangun 	(22.82.1516)\
-•	I Komang Arya Palguna 		  (22.82.1533)\
+•	I Komang Arya Palguna 		  (22.82.1533)
 
 ## Tools used in this game:
 Unity
